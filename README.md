@@ -29,7 +29,7 @@ Code examples that accompany various MDN DOM and Web API documentation pages.
 
 * The "performance-apis" directory is for examples and demos of the [Web Performance APIs](https://www.w3.org/wiki/Web_Performance/Publications).
 
-* The "pointerevents" directory is for examples and demos of the [Pointer Events](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events) standard.
+* The "pointerevents" directory is for examples and demos of the [Pointer Events](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events) standard. (direct link is https://github.com/mdn/dom-examples/blob/e9ee0e48efb6158878dbfe70878d3663f52ab6f7/pointerevents/Using_Pointer_Events.html)
 
 * The "pointer-lock" directory contains a simple demo to show usage of the Pointer Lock API. You can find more explanation of how the demo works at the main MDN [Pointer Lock API](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API) page. [Run the demo live](https://mdn.github.io/dom-examples/pointer-lock/).
 
